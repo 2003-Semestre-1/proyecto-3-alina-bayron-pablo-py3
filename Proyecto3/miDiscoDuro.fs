@@ -1,0 +1,1 @@
+Tamaño del disco: 100 GB 456
