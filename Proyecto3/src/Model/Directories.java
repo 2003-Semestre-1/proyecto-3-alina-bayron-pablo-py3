@@ -11,7 +11,7 @@ import java.util.List;
 
 /**
  *
- * @author espin
+ * @author Alina
  */
 public class Directories {
     private String directoryName;
